@@ -4,7 +4,7 @@ I’m SR Software Engineer with experience developing solutions for end-to-end s
 
 At the same time, I trained in finance through seminars, courses and self-study, broadening my understanding of personal finance.
 
-* 🌱 I’m currently learning about blockchain and the potential revolution brought about by this technology.
+* 🌱 I’m currently learning about blockchain and the revolution brought about by this technology.
 * 📫 How to reach me: https://twitter.com/SpaikSaucus88
 
 <!--
