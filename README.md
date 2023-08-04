@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m SR Software Engineer with experience developing solutions for end-to-end software. I have a technical degree Higher in Programming, from the National Regional Technological University of Buenos Aires, Argentina (UTN FRBA).
+I’m SR Software Engineer with experience developing solutions for end-to-end software. I have a technical degree Higher in Programming, from the National Regional Technological University of Buenos Aires, Argentina (also called UTN-FRBA).
 
 At the same time, I trained in finance through seminars, courses and self-study, broadening my understanding of personal finance.
 
