@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I’m SR Software Engineer with experience developing solutions for end-to-end software. I have a technical degree Higher in Programming, from the National Regional Technological University of Buenos Aires, Argentina (also called UTN-FRBA).
+My name is Sergio and I’m SR Software Engineer with experience developing solutions for end-to-end software. I have a technical degree Higher in Programming, from the National Regional Technological University of Buenos Aires, Argentina (also called UTN-FRBA).
 
-At the same time, I trained in finance through seminars, courses and self-study, broadening my understanding of personal finance.
+I consider myself a proactive and autonomous person, who is always willing to collaborate. In my career, I was acquiring the ability to adapt to change and to learn all the time.
 
-* 🌱 I’m currently learning about blockchain and the revolution brought about by this technology.
-* 📫 How to reach me: https://twitter.com/SpaikSaucus88
+* 📫 How to reach me: https://www.linkedin.com/in/s-napoli-arg
 
 <!--
 **SpaikSaucus/SpaikSaucus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
