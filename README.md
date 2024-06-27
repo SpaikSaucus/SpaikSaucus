@@ -4,8 +4,6 @@ My name is Sergio and I’m SR Software Engineer with experience developing solu
 
 I consider myself a proactive and autonomous person, who is always willing to collaborate. In my career, I was acquiring the ability to adapt to change and to learn all the time.
 
-* 📫 How to reach me: https://www.linkedin.com/in/s-napoli-arg
-
 <!--
 **SpaikSaucus/SpaikSaucus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* 📫 How to reach me: https://www.linkedin.com/in/s-napoli-arg
 -->
