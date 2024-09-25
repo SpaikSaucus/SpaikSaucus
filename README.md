@@ -4,6 +4,8 @@ My name is Sergio and I’m a Software Engineer with experience developing solut
 
 I consider myself a proactive and autonomous person, who is always willing to collaborate. In my career, I acquired the ability to adapt to change and to learn all the time.
 
+![SpaikSaucus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaikSaucus&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=4)
+
 <!--
 **SpaikSaucus/SpaikSaucus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
